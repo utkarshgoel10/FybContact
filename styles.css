@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+.nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
 html {
     scroll-behavior: smooth;
   }
